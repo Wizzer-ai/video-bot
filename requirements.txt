@@ -1,6 +1,4 @@
-telethon==1.37.0
-aiogram==3.13.1
-aiosqlite==0.20.0
-python-dotenv==1.0.1
-loguru==0.7.2
-aiofiles==24.1.0
+aiogram==2.25.1
+yt-dlp
+instaloader
+python-dotenv

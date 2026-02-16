@@ -3,3 +3,4 @@ yt-dlp
 instaloader
 python-dotenv
 flask
+aiohttp==3.8.6
